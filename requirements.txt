@@ -1,0 +1,20 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+autopep8 @ file:///tmp/build/80754af9/autopep8_1615918855173/work
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+dj-database-url==0.5.0
+Django @ file:///tmp/build/80754af9/django_1612212120213/work
+django-cors-headers==3.7.0
+django-environ==0.4.5
+django-filter==2.4.0
+djangorestframework==3.12.2
+gunicorn==20.1.0
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+Pillow @ file:///C:/ci/pillow_1615224364514/work
+psycopg2 @ file:///C:/ci/psycopg2_1612298766762/work
+psycopg2-binary==2.8.6
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+whitenoise==5.2.0
+wincertstore==0.2
