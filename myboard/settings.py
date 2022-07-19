@@ -17,8 +17,9 @@ import dj_database_url
 import environ
 env = environ.Env()
 environ.Env.read_env()
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SECRET_KEY = env('secret_key')
+# secret_key: '1ad-77dx3-hyt3e-7vpmya!1'
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 # BASE_DIR = Path(__file__).resolve().parent.parent
